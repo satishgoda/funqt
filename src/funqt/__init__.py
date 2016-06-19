@@ -1,3 +1,3 @@
-from PySide import QtCore, QtGui
+from PySide import QtCore, QtGui, QtWebKit
 
 from base import *
